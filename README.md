@@ -9,4 +9,4 @@
 #### Author: Jasur Rasulov | jrasul2@uic.edu
 #### Supervisor: John Sparks, PhD (Business Statistics)
 
-![alt text]()
+![](https://github.com/jasur-rasulov/Algorithmic-Investing/blob/master/Method.jpg)
